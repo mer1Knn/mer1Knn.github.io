@@ -53,8 +53,8 @@ const jobData = [
   },
   {
     _id: 4,
-    name: "Software Engineer",
-    jobTitle: "UX Designer",
+    name: "CETIM",
+    jobTitle: "Software Engineer",
     startDate: "2021-05",
     endDate: "2021-07",
     description: [
