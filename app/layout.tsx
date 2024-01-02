@@ -6,6 +6,7 @@ import { gitlabmono } from "./font/font";
 import Navbar from "./components/global/Navbar";
 import Footer from "./components/global/Footer";
 import { Providers } from "./providers";
+import Script from "next/script";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -34,6 +35,18 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <Script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=G-6R03XGHTTZ"
+      ></Script>
+      <Script id="google-analytics">
+        {`
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-6R03XGHTTZ');
+  `}
+      </Script>
       <body
         className={`${incognito.variable} ${inter.className} ${gitlabmono.variable} dark:bg-zinc-900 bg-white dark:text-white text-zinc-700`}
       >
