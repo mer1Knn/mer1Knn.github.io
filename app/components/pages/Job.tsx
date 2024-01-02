@@ -16,7 +16,7 @@ const jobData = [
       "• Created the web application while simultaneously developing the associated matching algorithm.",
       "• Executed testing and validation procedures to ensure the effectiveness and accuracy of the solution, guaranteeing a seamless user experience.",
     ],
-    logo: "/jobs/ornidex.jpg",
+    logo: "/Jobs/ornidex.jpg",
     url: "https://ornidex.com/",
   },
   {
@@ -34,7 +34,7 @@ const jobData = [
       "• Developing the solutions (Mobile application, front end, and back end for the web dashboard).",
       "• Testing and deploying the solution once all the tests are passed and validated.",
     ],
-    logo: "/jobs/djezzy.png",
+    logo: "/Jobs/djezzy.png",
     url: "https://www.djezzy.dz/",
   },
   {
@@ -48,7 +48,7 @@ const jobData = [
       "• Executed the implementation of front-end components and page designs.",
       "• Collaborated with a team of 4 developers to build the project from scratch.",
     ],
-    logo: "/jobs/atlas.png",
+    logo: "/Jobs/atlas.png",
     url: "https://www.atlas-marketspace.com/",
   },
   {
@@ -65,7 +65,7 @@ const jobData = [
       "• Testing the website to ensure that it meets the business and user requirements.",
       "• Deploying the website to a production environment, configuring the server, and testing the website again to ensure that it is working properly.",
     ],
-    logo: "/jobs/gica.png",
+    logo: "/Jobs/gica.png",
     url: "https://cetim-dz.com/",
   },
   {
