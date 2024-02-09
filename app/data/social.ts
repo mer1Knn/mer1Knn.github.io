@@ -24,7 +24,7 @@ export const socialLinks = [
   {
     id: 3,
     name: "Instagram",
-    url: "https://www.instagram.com/mer1knn",
+    url: "https://www.instagram.com/merouane.knn",
     icon: BiLogoInstagram,
     status: "social",
   },
