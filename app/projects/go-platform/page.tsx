@@ -21,7 +21,7 @@ export default async function Project() {
     id: "go-platform",
     "Project Name": "GO Platform",
     Company: "Global Opportunities",
-    url: "",
+    url: "https://go-platform.com/",
     "Company description":
       "GO PLATFORM is a Talent Acquisition marketplace built for Tech companies to take the pain of digital talent shortage. We are bringing a better way to source, screen, and recruit digital skills in Africa. We secure diversified, cheaper, and qualitative talents compared to the overpriced first-world talent.",
     Overview:
@@ -72,7 +72,7 @@ export default async function Project() {
             </a>
           </div>
 
-          <div className="relative w-full h-40 pt-[52.5%] ">
+          {/* <div className="relative w-full h-40 pt-[52.5%] ">
             <Image
               className="rounded-xl border dark:border-zinc-800 border-zinc-100 object-cover"
               layout="fill"
@@ -82,7 +82,7 @@ export default async function Project() {
               placeholder={"project.coverImage?.lqip" ? `blur` : "empty"}
               blurDataURL={"project.coverImage?.lqip" || ""}
             />
-          </div>
+          </div> */}
 
           <h1 className="font-incognito font-black tracking-tight sm:text-5xl text-3xl my-6 ">
             {project["Company"]}

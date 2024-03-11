@@ -73,7 +73,7 @@ export default function About() {
                     expertise.
                     <br />
                     <br />
-                    With <b>over 3 years of professional experience</b> , I have
+                    With <b>over 4 years of professional experience</b> , I have
                     successfully developed streamlined web applications at
                     Ornidex, played a pivotal role in constructing a B2B sales
                     tool at Djezzy, and led a dynamic team at GO Platform.

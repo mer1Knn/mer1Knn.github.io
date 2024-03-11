@@ -21,7 +21,7 @@ export default async function Project() {
     id: "cetim-website",
     "Project Name": "CETIM Website",
     Company: "CETIM",
-    url: "",
+    url: "https://cetim-dz.com/",
     "Company description":
       "The CETIM is an abbreviation for 'The Technical Center for the Construction Materials Industry.' It serves as the Algerian technical center for industries that produce materials like cement, concrete, lime and plaster, bricks, tiles, and ceramics.",
     Overview:
@@ -76,7 +76,7 @@ export default async function Project() {
             </a>
           </div>
 
-          <div className="relative w-full h-40 pt-[52.5%] ">
+          {/* <div className="relative w-full h-40 pt-[52.5%] ">
             <Image
               className="rounded-xl border dark:border-zinc-800 border-zinc-100 object-cover"
               layout="fill"
@@ -86,7 +86,7 @@ export default async function Project() {
               placeholder={"project.coverImage?.lqip" ? `blur` : "empty"}
               blurDataURL={"project.coverImage?.lqip" || ""}
             />
-          </div>
+          </div> */}
 
           <h1 className="font-incognito font-black tracking-tight sm:text-5xl text-3xl my-6 ">
             {project["Company"]}

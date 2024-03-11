@@ -1,83 +1,90 @@
 [
   {
-    "_id": 1,
+    "_id": 13,
+    "slug": "lyna-company-website",
+    "logo": "/Projects/lyna-company-website/logo.png",
+    "name": "Lyna Company",
+    "tagline": "Customized web app to boost digital visibility, showcase services, and attract a larger customer base."
+  },
+  {
+    "_id": 12,
     "slug": "global-work-algeria-website",
     "logo": "/Projects/global-work-algeria-website/logo.png",
     "name": "Global Work Algeria",
     "tagline": "Customized web app to boost digital visibility, showcase services, and attract a larger customer base."
   },
   {
-    "_id": 2,
+    "_id": 11,
     "slug": "xoyox-communication-and-events-website",
     "logo": "/Projects/xoyox-communication-and-events-website/logo.png",
     "name": "Xoyox Communication and Events",
     "tagline": "Customized web app to boost digital visibility, showcase services, and attract a larger customer base."
   },
   {
-    "_id": 3,
+    "_id": 10,
     "slug": "ornidex-optimized-client-profile-matching",
     "logo": "/Projects/ornidex-optimized-client-profile-matching/logo.png",
     "name": "Ornidex: Optimized Client-Profile Matching",
     "tagline": "Powerful web app featuring a matching algorithm. Simplifies connecting client needs with available profiles, enhancing efficiency and client satisfaction."
   },
   {
-    "_id": 4,
+    "_id": 9,
     "slug": "salesoptim-b2b-tool",
     "logo": "/Projects/salesoptim-b2b-tool/logo.png",
     "name": "SalesOptim ‑ B2B Sales and Portfolio Management Tool",
     "tagline": "Comprehensive B2B sales and portfolio management tool. Streamlines the sales process and enhances client relationships and team productivity."
   },
   {
-    "_id": 5,
+    "_id": 8,
     "slug": "smart-content-creation-assistant",
     "logo": "/Projects/smart-content-creation-assistant/logo.png",
     "name": "Smart Content Creation Assistant",
     "tagline": "Web platform to help content creators, influencers, business owners, advertisers create quality content with one click."
   },
   {
-    "_id": 6,
+    "_id": 7,
     "slug": "moonquakes",
     "logo": "/Achievements/nasa.png",
     "name": "MoonQuakes",
     "tagline": "App that plots seismic data transmitted back to Earth on an interactive 3D globe. Guess the content of AI-generated Moon pictures."
   },
   {
-    "_id": 7,
+    "_id": 6,
     "slug": "seawatch",
     "logo": "/Projects/seawatch/logo.png",
     "name": "SeaWatch ‑ Computer Vision Based Water Safety System",
     "tagline": "Cutting‐edge computer vision system using deep learning to identify drowning individuals. Pairs with a mobile app to alert authorities and enhance water safety."
   },
   {
-    "_id": 8,
+    "_id": 5,
     "slug": "shareq",
     "logo": "/Projects/shareq/logo.png",
     "name": "ShareQ ‑ Volunteer Matching App ",
     "tagline": "Addresses the challenge of finding suitable volunteering opportunities during Ramadan. User‐friendly app to help discover nearby volunteer experiences with ease."
   },
   {
-    "_id": 9,
+    "_id": 4,
     "slug": "mahd-iot-baby-monitoring-system",
     "logo": "/Projects/mahd-iot-baby-monitoring-system/logo.png",
     "name": "Mahd ‐ IoT Baby Monitoring System ",
     "tagline": "IoT system enabling continuous baby monitoring to prevent SIDS. Includes a wearable baby device, a mobile app for alerts, and a smart camera for real‐time baby tracking."
   },
   {
-    "_id": 10,
+    "_id": 3,
     "slug": "hamood-app",
     "logo": "/Projects/hamood-app/logo.png",
     "name": "Hamood App",
     "tagline": "Single app to help distributors, shopkeepers, customers, and hamoud boualem check the availability of hamoud products in each town and store, and report shortages."
   },
   {
-    "_id": 11,
+    "_id": 2,
     "slug": "cetim-website",
     "logo": "/Projects/cetim-website/logo.png",
     "name": "CETIM",
     "tagline": "Customized web app to boost digital visibility, showcase services, and attract a larger customer base."
   },
   {
-    "_id": 12,
+    "_id": 1,
     "slug": "go-platform",
     "logo": "/Projects/go-platform/logo.png",
     "name": "Global Opportunities",

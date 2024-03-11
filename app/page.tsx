@@ -15,12 +15,18 @@ const Home: React.FC = () => {
               Computing.
             </h1>
             <p className="text-base dark:text-zinc-400 text-zinc-600 leading-relaxed">
-              I am <b>Merouane</b>, an experienced <b>software engineer</b>, my
-              specialization lies in crafting cutting-edge digital solutions for
-              a diverse range of clients, including startups and large
-              enterprises. <br /> My primary goal is to engineer innovative
-              products that drive business expansion. Let&apos;s work together
-              to bring your ideas to life!
+              Hello! I am <b>Merouane</b> a Full Stack Software Engineer with
+              over 4 years of Full‐Stack Expertise. I hold a Master’s in
+              Software Engineering. <br />
+              I Lead project lifecycles as a Freelancer, achieving over 5,000
+              users in the first week. Developed innovative web applications for
+              large companies. Led a team of developers at startup, impacting
+              +20,000 users. <br />
+              Active in the tech community, as a speaker, coach, and a former
+              lead of a Google developers student club community of +400
+              members, Global Hackathons winner in the largest hackathons in the
+              world such as NASA Space App Challenge, AI Hack Tunisia, and
+              Junction competing against over +1200 participants.
             </p>
           </Slide>
           <Slide delay={0.1}>

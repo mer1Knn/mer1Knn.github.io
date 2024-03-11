@@ -21,7 +21,7 @@ export default async function Project() {
     id: "xoyox-communication-and-events-website",
     "Project Name": "Xoyox Communication and Events Website",
     Company: "Xoyox Communication and events",
-    url: "",
+    url: "https://xoyox-comevent.dz/",
     "Company description":
       "XOYOX is a leading creative communication agency specializing in custom stands and event planning. They excel in crafting high-quality visual materials aligned with client's brand identity and organizing tailored, successful events. With an unwavering commitment to quality and responsive service, XOYOX delivers top-notch results.",
     Overview:
